@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7e9; /* Verde claro de fondo */
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    color: #2e7d32; /* Verde oscuro para el texto */
+}
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+thead {
+    background-color: #66bb6a; /* Verde claro para el encabezado */
+    color: white;
+}
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+tr:hover {
+    background-color: #e8f5e9; /* Verde muy claro para el efecto hover */
+}
