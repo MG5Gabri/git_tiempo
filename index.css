@@ -4,10 +4,6 @@ body {
     margin: 0;
     padding: 20px;
 }
-h1 {
-    text-align: center;
-    color: #2e7d32; /* Verde oscuro para el texto */
-}
 table {
     width: 80%;
     margin: 0 auto;
