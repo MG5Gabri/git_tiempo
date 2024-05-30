@@ -1,9 +1,32 @@
-<<<<<<< HEAD
-=======
-header {
+.header {
+    max-width: 120rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+gap: 1rem;
+}
+.diseño {
+    width: 4rem;
+    height: 4rem;
+    background-color: orange;
+    border-radius: 5rem;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: greenyellow;
 }
->>>>>>> f52406fd8139dac1e139111f42dc38dc48512fb4
+.btn_git {
+    width: 6rem;
+    height: 3rem;
+    border-radius: 1rem;
+    background-color: mediumseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
